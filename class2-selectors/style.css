@@ -1,4 +1,4 @@
-.sharuk{
+.sharuk{ /* class selector */
     background-color: red;
 }
 .alia{
@@ -10,6 +10,19 @@
 .nayanatara{
     background-color: green;
 }
-.vijay{
+.vijay{  /* class selector */
     background-color: aqua;
+}
+#abc{ /* id selector */
+    background-color: blue;
+}
+*fab{ /* universal selector */
+    background-color: brown;
+}
+h2{ /* tag selector */
+    background-color: purple;
+}
+#gt,.mahesh,h5{ /* group of id,class & tag selectors */
+    background-color: orange;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
