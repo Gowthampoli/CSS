@@ -1,0 +1,10 @@
+a{
+    background-color: lightblue;
+}
+a[target]{
+    background-color: lightgray;
+}
+*{
+    background-color: rgb(246, 243, 214);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
