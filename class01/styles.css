@@ -1,0 +1,56 @@
+#w{
+    width: 50px;
+    height: 150px;
+    background-color: white;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+#r,#y,#g{
+    width: 40px;
+    height: 40px;
+    border: 2px solid black;  
+    border-radius: 50%;
+    margin: 5px;
+}
+
+#r{
+background-color: red;
+}
+
+#y{
+background-color: yellow;
+}
+
+#g{
+background-color: green;
+}
+
+/* #w{
+    width: 50px;
+    height: 150px;
+    background-color: white;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px
+}
+#r,#y,#g{
+    width: 40px;
+    height: 40px;
+    border: 2px solid black;  
+    border-radius: 50%;
+    margin: 5px
+}
+
+#r{
+    background-color: red;
+}
+
+#y{
+    background-color: yellow;
+}
+
+#g{
+    background-color: green;
+} */
+
